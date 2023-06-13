@@ -1,6 +1,6 @@
 # Spark
 
-Develop spark application in any programming language that implements the below functions using spark loops. 
+Develop spark application in python that implements the below functions using spark loops. 
 You must also create a document includes all the results of each query:
 1) Compute the min, max, and average page size.
 2) Determine the number of page titles that start with the article “The”. How many of those
